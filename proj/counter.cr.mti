@@ -1,0 +1,42 @@
+C:/Users/I/counter/proj/single.v {1 {vlog -work work -vopt -stats=none C:/Users/I/counter/proj/single.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pc
+-- Compiling module acc
+-- Compiling module alu
+-- Compiling module adder
+-- Compiling module mux2to1
+-- Compiling module controller
+-- Compiling module datamem
+-- Compiling module codemem
+-- Compiling module datapath
+-- Compiling module CPU
+-- Compiling module CPU2
+
+Top level modules:
+	datamem
+	codemem
+	CPU
+	CPU2
+
+} {} {}} C:/Users/I/counter/proj/ALU.v {1 {vlog -work work -vopt -stats=none C:/Users/I/counter/proj/ALU.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/I/counter/proj/single_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/I/counter/proj/single_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module single_tb
+
+Top level modules:
+	single_tb
+
+} {} {}} C:/Users/I/counter/proj/cpu.v {1 {vlog -work work -vopt -stats=none C:/Users/I/counter/proj/cpu.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}}
